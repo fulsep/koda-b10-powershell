@@ -9,3 +9,8 @@ mkdir Music
 ```sh
 cd Music
 ```
+
+
+```sh
+rm -rf Music # or -fo in windows powershell
+```
